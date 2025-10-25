@@ -1,4 +1,4 @@
-# Taller introductorio de Minería de bases de datos biodiversidad con PYTHON 
+# Taller introductorio de minería de bases de datos de la biodiversidad con Python
 
 
 Taller "Manejo de Bases de Datos Biológicas y Análisis en Python" — Curso práctico de la Universidad de Sonora y UNAM enfocado en el uso de Python, Pandas, APIs, SIG y visualización de datos ecológicos. Incluye notebooks, ejercicios y ejemplos con datasets reales (GBIF, Kaggle, shapefiles).
